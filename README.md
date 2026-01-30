@@ -24,11 +24,5 @@ I enjoy turning ideas into real products—especially web & mobile apps.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sosawz&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sosawz&layout=compact)
-
----
-
 ## 📫 Contact
 - Email: sosawz.sng@gmail.com
